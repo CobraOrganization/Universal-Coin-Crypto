@@ -1,5 +1,5 @@
 Coin properties
-
+<br/>
 Compiling OS Ubuntu 18.04 LTS
 Source branch 0.18
 Algorithm Scrypt Proof of Work
